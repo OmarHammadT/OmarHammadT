@@ -7,8 +7,6 @@
 
 🛠️ Tools & Tech:
 Figma · Git · Firebase · Linux 
-🧠 Beyond code:
-Strong foundations in teamwork, leadership, and competing under pressure — with the presentation skills to back it up.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vCKRQhcq) 
