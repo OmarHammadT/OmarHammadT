@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Prep school student passionate about building things that matter.
+🎓 Secondary school student passionate about building things that matter.
 💻 What I build:
 
 🌐 Web apps — HTML, CSS, JavaScript
